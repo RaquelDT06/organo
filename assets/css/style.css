@@ -17,5 +17,5 @@ header{
     padding: 3rem;
     height: 90%;
     box-shadow: 3px 5px 8px rgba(0, 0, 0, 0.5);
-    background-image: linear-gradient(to top, white 60%, #B9E2D3);
+    background-image: linear-gradient(to top, white 60%, #B9E2D3 );
 }
